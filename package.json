@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-challenge",
+  "version": "1.0.0",
+  "description": "readme-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heather Starr",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
