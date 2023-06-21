@@ -1,7 +1,7 @@
-# title
+# Heather's ReadME Generator Project
 
   ## Description
-  des
+  Description of project
   
   ## Table of Contents
   
@@ -16,35 +16,35 @@
   - [Developer](#developer)
   
   ## Installation
-  steps
+  Steps list...
   
+  ## Usage
+  Product usage is as follows...
   
-  
-  
-  
-  
+  ## Credits
+  Credits list...
   
   ## License
   Apache 2.0
   
   ## Features
-  featuew
+  Features of this project are as follows...
   
   ## How to Contribute
 
   In order to to contribute, you can reach out to one of the contributors:
-  con
+  Contributors...
   
   ## Tests
-  no
+  No
 
   ## Issues
   In case of issues, you can do the following:
-  none
+  If you have an issue then...
 
   ## Developer
-  Name:heather
+  Name:Heather Starr
 
-  [Email Address](mailto:email)
+  [Email Address](mailto:Email@email.com)
 
   
